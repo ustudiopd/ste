@@ -1,5 +1,6 @@
 {
     "rss_urls": [
-        "https://www.wired.com/feed/rss"
+        "https://www.wired.com/feed/rss",
+        "https://techcrunch.com/feed/"
     ]
 }
